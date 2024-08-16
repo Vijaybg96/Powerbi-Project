@@ -1,5 +1,1 @@
-![1](https://github.com/Vijaybg96/Powerbi-Project/assets/168106453/9f289131-deb7-4113-b6f1-5bd8ace6cbfa)
-![2](https://github.com/Vijaybg96/Powerbi-Project/assets/168106453/f35cbb6c-0e5b-44de-9843-02e9c98ade66)
-![3](https://github.com/Vijaybg96/Powerbi-Project/assets/168106453/64af2b4c-64eb-4b3b-8e8f-384481397469)
-![4](https://github.com/Vijaybg96/Powerbi-Project/assets/168106453/6f51bd08-8f90-47e6-8646-dd8613b8cab8)
-![5](https://github.com/Vijaybg96/Powerbi-Project/assets/168106453/000db199-ff04-4723-af03-f8298695e47e)
+
